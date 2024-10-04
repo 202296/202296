@@ -1,16 +1,24 @@
-## Hi there 👋
+# Koko Mouhamed Jean Patrick
 
-<!--
-**202296/202296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Koko Mouhamed Jean Patrick, a student at Brigham Young University-Idaho interested in **web development** 🌐 and **software development** 💻. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning **Software Development** 🚀 and enhancing my skills in **databases** like MongoDB and SQL.
+- My goals are to create impactful web applications 💡 and collaborate on innovative projects that solve real-world problems.
+- Ask me about my experiences with **C++, Java, Python** 🐍, and my projects involving **Next.js** and **React** ⚛️.
+
+## Technologies and Tools
+
+- Proficient in: **HTML, CSS, JavaScript, C++, Java, Python, Next.js, React,.NET** 🔧
+- Skills: **Web Development, Backend Development, Problem Solving, Database Management** 🛠️
+
+## Let's Connect!
+
+- Here is my [LinkedIn](http://www.linkedin.com/in/mouhamedkoko996) profile 🌟
+- Here is my [Twitter](https://x.com/KokoMouham61731) profile 🐦
+- Here is my [Facebook](https://www.facebook.com/mouhamedjeanpatrick.koko) profile 🌟
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
