@@ -17,8 +17,8 @@ I'm Koko Mouhamed Jean Patrick, a student at Brigham Young University-Idaho inte
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](http://www.linkedin.com/in/mouhamedkoko996) profile 🌟
-- Here is my [Twitter](https://x.com/KokoMouham61731) profile 🐦
+- Here is my [LinkedIn](http://www.linkedin.com/in/mouhamedkoko996) profile [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- Here is my [Twitter](https://x.com/KokoMouham61731) profile [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]()
 - Here is my [Facebook](https://www.facebook.com/mouhamedjeanpatrick.koko) profile 🌟
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
